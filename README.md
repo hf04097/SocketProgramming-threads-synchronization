@@ -1,7 +1,7 @@
 # SocketProgramming-threads-synchronization
 A rudimentary chatting application is implemented which runs on a client/server model
 
-![alt text](https://github.com/hf04097/SocketProgramming-threads-synchronization/blob/master/clientServer.png"Client Server Connection")
+![alt text](https://raw.githubusercontent.com/hf04097/SocketProgramming-threads-synchronization/master/client%20server.png)
 
 ## What does the program do?
 
